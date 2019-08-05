@@ -1,6 +1,6 @@
 ---
 id: doc5
-title: Fifth Document
+title: Cinquième document
 ---
 
-Another one
+Un autre
