@@ -1,7 +1,7 @@
 ---
 id: doc2
-title: document number 2
+title: numéro de document 2
 ---
 
-This is a link to [another document.](doc3.md)  
-This is a link to an [external page.](http://www.example.com)
+Ceci est un lien vers [autre document.](doc3.md)  
+Il s'agit d'un lien vers une page externe [.](http://www.example.com)
