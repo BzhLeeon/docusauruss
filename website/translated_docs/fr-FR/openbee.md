@@ -17,4 +17,4 @@ oui j'aime ça
 
 ## ajoue de la nouvelle documentation version 2.0.0
 
-on essaye
+à l'essai
