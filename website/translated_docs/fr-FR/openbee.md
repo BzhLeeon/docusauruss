@@ -7,6 +7,6 @@ title: openbee
 
 je vis à paris
 
-## where do you live ?
+## où habites-tu ?
 
-i live in paris yes
+je vis à paris
